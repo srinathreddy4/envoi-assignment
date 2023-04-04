@@ -1,0 +1,200 @@
+[
+    {
+      "name": "Amela Spahic",
+      "skills": {
+        "node": true,
+        "mysql": true,
+        "Hadoop": true,
+        "python": true,
+        "javascript": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Anton Dragan",
+      "skills": {
+        "DevOps": true,
+        "Angular": true,
+        "Hadoop": true,
+        "React": true,
+        "javascript": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Benny Hellstrom",
+      "skills": {
+        "Java": true,
+        "Postgres": true,
+        "Ruby": true,
+        "python": true,
+        "javascript": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Claes Crona",
+      "skills": {
+        "Java": true,
+        "MongoDB": true,
+        "PHP": true,
+        "python": true,
+        "javascript": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Fredrik Mellgren",
+      "skills": {
+        "DevOps": true,
+        "React": true,
+        "Hadoop": true,
+        "python": true,
+        "Go": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Irina Baliseva",
+      "skills": {
+        "Java": true,
+        "Postgres": true,
+        "Hadoop": true,
+        "DotNet": true,
+        "NodeJS": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Johanna Ekstrom",
+      "skills": {
+        "DevOps": true,
+        "Automation": true,
+        "Hadoop": true,
+        "python": true,
+        "javascript": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Jonas Birgersson",
+      "skills": {
+        "PHP": true,
+        "mysql": true,
+        "Typescript": true,
+        "python": true,
+        "NodeJS": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Kevin Zhang",
+      "skills": {
+        "DevOps": true,
+        "Linux": true,
+        "Hadoop": true,
+        "Typescript": true,
+        "javascript": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Lars Nyman",
+      "skills": {
+        "node": true,
+        "NodeJs": true,
+        "Hadoop": true,
+        "python": true,
+        "Ruby": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Malena Ohrn",
+      "skills": {
+        "node": true,
+        "mysql": true,
+        "Hadoop": true,
+        "python": true,
+        "javascript": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Mariana Bocoi",
+      "skills": {
+        "node": true,
+        "mysql": true,
+        "Hadoop": true,
+        "python": true,
+        "javascript": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Maryia tuleika",
+      "skills": {
+        "node": true,
+        "mysql": true,
+        "Hadoop": true,
+        "python": true,
+        "javascript": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Mehdi Ahmadi",
+      "skills": {
+        "node": true,
+        "mysql": true,
+        "Hadoop": true,
+        "python": true,
+        "javascript": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Rafael silva",
+      "skills": {
+        "node": true,
+        "mysql": true,
+        "Hadoop": true,
+        "python": true,
+        "javascript": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "sharanga Thanthiriwaththa",
+      "skills": {
+        "node": true,
+        "mysql": true,
+        "Hadoop": true,
+        "python": true,
+        "javascript": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Silas Andre",
+      "skills": {
+        "node": true,
+        "mysql": true,
+        "Hadoop": true,
+        "python": true,
+        "javascript": true
+      },
+      "assigned": false
+    },
+    {
+      "name": "Srinath Reddy",
+      "skills": {
+        "node": true,
+        "mysql": true,
+        "Hadoop": true,
+        "python": true,
+        "javascript": true
+      },
+      "assigned": false
+    }
+  ]

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultant Finder</title>
+</head>
+<body>
+    <h1>A basic Consultant finder microservice app</h1>
+    <p>Enter an assignment name to find the right consultant matching based on the skills</p>
+    <form action="http://localhost:5000/matching_consultant" method="get">
+        <label for="assignmentInput">Assignment name: </label>
+        <input type="text" name="assignment_name" placeholder="Enter the name of the assignment" id="assignmentInput">
+        <button type="submit">submit</button>
+    </form>
+</body>
+</html>
